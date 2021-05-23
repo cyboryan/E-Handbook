@@ -1,7 +1,7 @@
 # E-Handbook
 
-E-Handbook is a short term for Student's Electronic Handbook serves as an information hub of the students, parents, teachers and stakeholders concerned about Plaridel National High School, its policies, clubs and activities while minimizing printing costs for the school and redistributable throughout Android Devices without hassle.
+E-Handbook is an abbreviated term for Student's Electronic Handbook that serves as an information hub for the students, parents, teachers, and stakeholders concerned about Plaridel National High School, its policies, clubs, and activities. The app is also made to minimize printing costs and also release additional features that are not possible on a handheld paper handbook.
 
-The app is released back by on June 23, 2017 through the Ionic Creator Graphical User Interface at Plaridel National High School together with the help of the Faculty and Staff and the Supreme Student Government of the school.
+The app was released back on June 23, 2017, through the Ionic Creator Graphical User Interface. It was created by Xyber Pastoril in collaboration with the school's Faculty and Staff and the Supreme Student Government.
 
-The project is currently discontinued in lieu of bigger projects which some parts of this information app will be integrated in. The latest release was back in June 2018 and is now outdated. This may be updated soon.
+The project was discontinued in lieu of bigger projects in which some parts of this information app will be integrated. The latest release was back in June 2018 and is now outdated. There are currently no plans on updating the app.
